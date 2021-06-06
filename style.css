@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: green;
+    height: 90px;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.link-header {
+    position:relative;
+    top: 7px;
+    background-color: lightgreen;
+}
+
+.link-nav {
+   padding-left: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+.red {
+    width: 700px;
+}
+
+.social {
+    padding: 7px;
+}
