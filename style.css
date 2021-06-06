@@ -13,7 +13,8 @@ header {
 .link-header {
     position:relative;
     top: 7px;
-    background-color: lightgreen;
+    background-color: lightgreen; 
+     text-decoration: none;
 }
 
 .link-nav {
