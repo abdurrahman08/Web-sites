@@ -7,12 +7,13 @@ header {
     height: 90px;
     text-align: center;
     font-size: 40px;
+    
 }
 
 .link-header {
     position:relative;
     top: 7px;
-    background-color: lightgreen; 
+    background-color: lightgreen;
     text-decoration: none;
 }
 
@@ -31,4 +32,5 @@ h1 {
 
 .social {
     padding: 7px;
+    margin-left: 70px;
 }
